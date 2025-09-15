@@ -1,2 +1,2 @@
 # Honors Python
-Sopohmore year
+All my sophomore year Honors Python projects
